@@ -6,5 +6,5 @@ Step 1: Run FirstAppUsingSpringBootApplication.java,
 Step 2: In your browser run localhost:8080.
 
 # Login 
-username = admin 
+username = admin and 
 password = 1234
